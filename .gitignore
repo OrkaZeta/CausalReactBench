@@ -37,3 +37,6 @@ scripts/slurms/logs/*
 
 # LLM Agents configs
 .agents/
+
+data/
+ckpt/
